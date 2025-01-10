@@ -1,0 +1,8 @@
+{
+  "name": "hashPuzzle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Insu-Lee/hashPuzzle.git",
+  "author": "Insu-Lee <insu.lee@mrhi.or.kr>",
+  "license": "MIT"
+}
