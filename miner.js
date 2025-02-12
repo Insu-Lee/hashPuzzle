@@ -96,7 +96,7 @@ const mineBlock = async () => {
 
     console.log(`Nonce: ${nonce}, Hash: ${hash}`);
 
-    await delay(500);
+    await delay(0);
 
     nonce += 1;
   }
